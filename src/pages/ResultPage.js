@@ -1,4 +1,4 @@
-import { Button } from "../App";
+import { Button } from "./GamePage";
 
 export default function ResultPage({ result, backToGame }) {
 
